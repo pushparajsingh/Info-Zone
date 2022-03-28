@@ -1,0 +1,31 @@
+.box2{
+    
+    width:50%;
+    float: left;
+    height: 90vh;
+    color: white;
+    h3{
+        margin-top: 10%;
+    }
+    h1{
+        font-size: 60px;
+    }
+     p{
+         font-size: 25px;
+     }
+    button{
+        border-radius: 25px ;
+    }
+}
+.box3{
+    
+    width: 50%;
+    float: right;
+    height: 90vh;
+}
+.Addproduct{
+    background: url(https://cdn.pixabay.com/photo/2018/05/22/14/00/girl-3421489_960_720.jpg) no-repeat center;
+    height: 91vh;
+    background-size: cover;
+    
+}

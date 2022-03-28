@@ -1,0 +1,31 @@
+@import 'header';
+@import 'register';
+@import 'addproduct';
+.samebox{
+    border: 2px solid red;
+    width: 360px;
+    height: 360px;
+    border-radius: 25px;
+    color: rgb(31, 28, 28);
+    background-color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    img{
+        margin-top: 15px;
+        width: 300px;
+        height: 220px;
+    }
+}
+
+.box4{
+
+    display: flex;
+   justify-content: space-evenly;
+   
+}
+.box5{
+    background-color: black;
+    color: white;
+    height: 91.2vh;
+}
