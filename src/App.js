@@ -6,14 +6,11 @@ import UpdateProduct from './Updateproduct'
 import AddProduct from './Addproduct'
 import Register from './Register'
 
-
-
 function App() {
   return (
     <div className="App">
       <Router>
       <Header/>
-      
       <Switch>
       <Route path="/" exact={true} ><Login/></Route>
       <Route path="/Register"><Register/></Route>
